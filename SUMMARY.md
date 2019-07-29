@@ -11,6 +11,11 @@
 ## Minecraft In-Game Features <a id="minecraft"></a>
 
 * [End Void Safety](minecraft/end-void-safety.md)
-* [Jukebox Radio](minecraft/jukebox-radio.md)
 * [EnderDragon Death Display](minecraft/enderdragon-death-display.md)
+
+## Minecraft Commands
+
+* [Jukebox Radio](minecraft-commands/jukebox-radio.md)
+
+## Minecraft Custom Crafting <a id="custom-crafting"></a>
 
