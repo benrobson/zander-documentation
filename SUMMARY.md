@@ -14,11 +14,3 @@
 * [Jukebox Radio](minecraft/jukebox-radio.md)
 * [EnderDragon Death Display](minecraft/enderdragon-death-display.md)
 
-## Web
-
-* [Untitled](web/untitled.md)
-
-## Discord
-
-* [Untitled](discord/untitled.md)
-
