@@ -2,7 +2,8 @@
 
 {% hint style="info" %}
 **Command:** /jukebox  
-**Permission:** `zander.jukebox`
+**Permission Default:** op  
+**Permission:**`zander.jukebox`
 {% endhint %}
 
 The Jukebox Radio which can be executed with /jukebox which requires permissions of `zander.jukebox` will open a graphical user interface to the player where you can select and play any disc that is currently in the game.
