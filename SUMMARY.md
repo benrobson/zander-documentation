@@ -14,6 +14,7 @@
 * [End Void Safety](minecraft/end-void-safety.md)
 * [EnderDragon Death Display](minecraft/enderdragon-death-display.md)
 * [Charged Creeper Player Head Drop](minecraft/charged-creeper-player-head-drop.md)
+* [End Crystal Percentage Drop](minecraft/end-crystal-percentage-drop.md)
 
 ## Minecraft Commands
 
