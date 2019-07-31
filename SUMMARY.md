@@ -22,3 +22,7 @@
 
 ## Minecraft Custom Crafting <a id="custom-crafting"></a>
 
+* [Trident](custom-crafting/trident.md)
+* [Experience Bottle](custom-crafting/experience-bottle.md)
+* [Rotten Flesh to Leather](custom-crafting/rotten-flesh-to-leather.md)
+

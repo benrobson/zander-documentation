@@ -5,5 +5,5 @@ If the user was to use a word that gets triggered by the filter it promptly remo
 
 ![Example of the filter bring used on Discord](../.gitbook/assets/image.png)
 
-![Example of the filter being used in Minecraft.](../.gitbook/assets/d3b9f33fa5219844ba7139747d7762d2%20%281%29.png)
+![Example of the filter being used in Minecraft.](../.gitbook/assets/d3b9f33fa5219844ba7139747d7762d2.png)
 
