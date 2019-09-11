@@ -25,4 +25,5 @@
 * [Trident](custom-crafting/trident.md)
 * [Experience Bottle](custom-crafting/experience-bottle.md)
 * [Rotten Flesh to Leather](custom-crafting/rotten-flesh-to-leather.md)
+* [Elytra](custom-crafting/elytra.md)
 
