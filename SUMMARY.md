@@ -6,7 +6,7 @@
 
 ## Global Platform Features
 
-* [Word Filter](global-platform-features/untitled-1.md)
+* [Swear Filter](global-platform-features/untitled-1.md)
 * [Player Moderation](global-platform-features/player-moderation.md)
 
 ## Minecraft In-Game Features <a id="minecraft"></a>
@@ -19,6 +19,10 @@
 ## Minecraft Commands
 
 * [Jukebox Radio](minecraft-commands/jukebox-radio.md)
+
+## Discord Commands
+
+* [Moderation Commands](discord-commands/moderation-commands.md)
 
 ## Minecraft Custom Crafting <a id="custom-crafting"></a>
 
