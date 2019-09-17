@@ -7,7 +7,6 @@
 ## Global Platform Features
 
 * [Swear Filter](global-platform-features/untitled-1.md)
-* [Player Moderation](global-platform-features/player-moderation.md)
 
 ## Minecraft In-Game Features <a id="minecraft"></a>
 
