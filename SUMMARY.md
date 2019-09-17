@@ -7,6 +7,7 @@
 ## Global Platform Features
 
 * [Swear Filter](global-platform-features/untitled-1.md)
+* [Report Command](global-platform-features/report-command.md)
 
 ## Minecraft In-Game Features <a id="minecraft"></a>
 
