@@ -22,6 +22,7 @@
 
 ## Discord Commands
 
+* [User Commands](discord-commands/user-commands.md)
 * [Moderation Commands](discord-commands/moderation-commands.md)
 
 ## Minecraft Custom Crafting <a id="custom-crafting"></a>
