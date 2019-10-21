@@ -1,7 +1,7 @@
 # Pull Requests & Contributing
 
 {% hint style="info" %}
-You can submit Pull Requests to the zander project here: [https://github.com/benrobson8/zander/pulls](https://github.com/benrobson8/zander/pulls)
+You can submit Pull Requests to the zander project here: [https://github.com/benrobson/zander/pulls](https://github.com/benrobson/zander/pulls)
 {% endhint %}
 
 I love teamwork and when people work together when people work together often other people learn new things.
