@@ -15,6 +15,7 @@
 * [EnderDragon Death Display](minecraft/enderdragon-death-display.md)
 * [Charged Creeper Player Head Drop](minecraft/charged-creeper-player-head-drop.md)
 * [End Crystal Percentage Drop](minecraft/end-crystal-percentage-drop.md)
+* [Pigman Quartz Anger](minecraft/pigman-quartz-anger.md)
 
 ## Minecraft Commands
 
